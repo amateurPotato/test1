@@ -23,7 +23,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_FX24mds",
+      "defaultValue": "Standard_G1",
       "metadata": {
         "description": "VM size"
       }
